@@ -1,0 +1,35 @@
+body {
+    background: rgb(70, 142, 236);
+    font: normal 20pt Arial;
+}
+
+header {
+   color: white;
+   text-align: center;
+}
+
+section {
+    padding: 15px;
+    width: 500px;
+    background: white;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    text-align: center;
+}
+
+div#msg {
+    margin-top: 10px;
+    font: normal 18pt Arial;
+}
+
+div#foto {
+    margin-top: 25px;
+}
+
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
